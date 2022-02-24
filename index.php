@@ -489,7 +489,7 @@
                                 <span class="skills_experience"><?= $apiExperience ?></span>
                                 <br>
                                 <div class="skills_rate">
-                                    <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i><i class="far fa-star"></i> <span>Intermediate</span>
+                                    <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="far fa-star"></i> <span>Advanced</span>
                                 </div>
                             </div>
                         </div>
